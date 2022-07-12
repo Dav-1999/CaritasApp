@@ -14,7 +14,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 void main() {
   //WidgetsFlutterBinding.ensureInitialized(); //解决加载json错误
-
+  //测试git提交功能
   runApp(const MyApp());
 }
 
